@@ -1,13 +1,10 @@
 //Name: Alexis Dubois
 //Student ID: 260743051
 
-
-#include <stdlib.h>
-#include <stdio.h>
-#include <string.h>
-#include "ssv.c"
-#include "linked.c"
-
+#include "parse.h"
+#include "findUpdate.h"
+#include "prettyPrint.h"
+#include "defs.h"
 
 int main() {
 
@@ -42,7 +39,7 @@ int main() {
 
 	prettyPrint();
 
-	
+	return 0;
 
 }
 

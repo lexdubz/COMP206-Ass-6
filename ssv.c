@@ -1,5 +1,7 @@
-#include <ctype.h>
+//Name: Alexis Dubois
+//Student ID: 260743051
 
+#include "defs.h"
 
 
 void parse(char record[], int *acct, float *amnt) {
