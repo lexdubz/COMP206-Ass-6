@@ -1,0 +1,41 @@
+commit 40b45bccd3fe9c48e9761224fe11f1111a9204ea
+Author: Alexis DUBOIS <aduboi8@teaching.CS.McGill.CA>
+Date:   Sun Nov 24 18:04:49 2019 -0500
+
+    Finalized project version with working makefile and header files
+
+commit af9233d18ca6b22db50ae0656fa919221bc998c5
+Author: Alexis DUBOIS <aduboi8@teaching.CS.McGill.CA>
+Date:   Sat Nov 23 22:56:17 2019 -0500
+
+    header file for the Account struct
+
+commit 6863fffe30085ecb25dbeac4f6de9af4a510ac80
+Author: Alexis DUBOIS <aduboi8@teaching.CS.McGill.CA>
+Date:   Sat Nov 23 22:41:15 2019 -0500
+
+    Working Program, some technicalities left
+
+commit fa56abd715fb95e1dca7af82b29995968ff95a3d
+Author: Alexis DUBOIS <aduboi8@teaching.CS.McGill.CA>
+Date:   Fri Nov 22 11:40:49 2019 -0500
+
+    main.c compiles without errors, programs is untested
+
+commit 9c9caf5597a9d12f6c2b18bc3d740d5a599453ad
+Author: Alexis DUBOIS <aduboi8@teaching.CS.McGill.CA>
+Date:   Thu Nov 21 14:13:11 2019 -0500
+
+    finished the rough work on linked.c
+
+commit 7c0bc765d60d7fff04306b34e4ca93dce7aeabec
+Author: Alexis DUBOIS <aduboi8@teaching.CS.McGill.CA>
+Date:   Wed Nov 20 10:46:02 2019 -0500
+
+    Starting off the main.c and ssv.c files
+
+commit d249c2ec806f2ae0bfcc7c526d777ba62c7be4cd
+Author: Alexis DUBOIS <aduboi8@teaching.CS.McGill.CA>
+Date:   Tue Nov 19 16:00:18 2019 -0500
+
+    testing
