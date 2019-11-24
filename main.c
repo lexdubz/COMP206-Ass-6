@@ -10,8 +10,6 @@
 
 
 int main() {
-	//initliase the list head to store the values
-	init();
 
 	FILE *p = fopen("students.ssv","r");
 	
@@ -26,8 +24,8 @@ int main() {
 	while(feof(p) == 0){
 		
 		//initialise the variables
-		int *actNum = 0;
-		float *actBall = 0;
+		int actNum = 0;
+		float actBall = 0;
 		
 		//call the function passing the reference to the variables to which the values will be attributed
 		parse(record,&actNum,&actBall);
